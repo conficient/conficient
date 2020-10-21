@@ -1,3 +1,5 @@
-# Vanilla JavaScript App
+# About Me
 
-This repo is used as a starter for a _very basic_ HTML web application using no front-end frameworks.
+A real dinosaur on the bleeding edge of web design. Use Visual Studio and VS Code to create ASP.NET and ASP.NET Core applications. 
+
+A fan of Blazor since it first appeared and using it real applications already.
