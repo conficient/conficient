@@ -9,7 +9,7 @@ A fan of [Blazor](https://blazor.net) since it first appeared and using it real 
 Libraries
   - [BlazorTemplater](https://github.com/conficient/BlazorTemplater) renders `.razor` components to HTML - useful for email generation.
   - [BlazorFormLayout](https://github.com/conficient/BlazorFormLayout) Blazor component library to make creating Bootstrap v4 forms easier
-  - [Frankfurter](https://github.com/conficient/Frankfurter) 
+  - [Frankfurter](https://github.com/conficient/Frankfurter) C# API for the Frankfurter currency conversion web service
   - [versionReaderTask](https://github.com/conficient/versionReaderTask) Azure DevOps build task to extract version values from projects
 
 Demo Apps
