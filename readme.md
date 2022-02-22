@@ -18,7 +18,7 @@ Demo Apps
 
 ## ✍️ Blog
 
-[Blazor Expert](https://blazor.expert)
+[Blazor Expert](https://www.blazor.expert)
 
 ## 📊 GitHub Stats
 
